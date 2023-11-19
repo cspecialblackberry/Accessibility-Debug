@@ -18,6 +18,7 @@ header {
 h1 {
     display: inline-block;
     font-size: 48px;
+    margin-right: 20px;
 }
 
 .seo {
@@ -32,13 +33,17 @@ header div {
     font-size: 20px;
 }
 
+nav {
+    display: inline-block
+}
+
 ul {
     list-style-type: none;
 }
 
 li {
     display: inline-block;
-    margin-left: 25px;
+    margin-left: 100px;
 }
 
 a {
