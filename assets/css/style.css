@@ -37,11 +37,11 @@ nav {
     display: inline-block
 }
 
-ul {
+nav ul {
     list-style-type: none;
 }
 
-li {
+nav ul li {
     display: inline-block;
     margin-left: 100px;
 }
