@@ -14,3 +14,6 @@ N/A
 
 ## License 
 Refer to the license in the repo.
+
+## Screenshot
+![Screenshot (1)](https://github.com/cspecialblackberry/Accessibility-Debug/assets/150544796/bfd70bfb-aa83-4e6f-a3b6-7648ee1dc351)
